@@ -31,13 +31,7 @@ class AboutUs extends StatelessWidget {
                         'assets/dscn.png',
                         height: height * 0.15,
                       ),
-                      Text(
-                        'Developer Student Club',
-                        textAlign: TextAlign.center,
-                        style: TextStyle(
-                            fontSize: height * 0.03,
-                            fontWeight: FontWeight.bold),
-                      ),
+                     
                       SizedBox(height: height * 0.02,),
                       Text('Developed By: ', style: TextStyle(fontWeight: FontWeight.bold),),
                       Text('Abdiaziz Hassan', textAlign: TextAlign.center,),
